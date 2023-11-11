@@ -1,0 +1,6 @@
+@font-face {
+  font-family: OpenDyslexic;
+  font-style: normal;
+  font-weight: 400;
+  src: local('OpenDyslexic'), url('//solome.js.org/static/fonts/open-dyslexic.woff') format('woff');
+}
